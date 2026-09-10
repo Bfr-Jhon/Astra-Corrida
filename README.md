@@ -252,11 +252,10 @@ Para executar o projeto localmente:
 
 ---
 
-## 14. Autores
-
+## 14. Autor
 **Orbyte — Onde ideias orbitam a tecnologia**
 
-🔗 **GitHub:** https://github.com/grupo6-js13/  
-🔗 **E-mail:** grupo6js13@gmail.com
+🔗 **GitHub:** https://github.com/Bfr-Jhon  
+🔗 **Linkedin:** https://www.linkedin.com/in/jhonatha-oliveira
 
 Projeto desenvolvido para **aprendizado contínuo**, **demonstração técnica** e **portfólio profissional**.
